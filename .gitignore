@@ -1,0 +1,9 @@
+examples/editor
+examples/interactive_basic
+examples/interactive_history
+examples/getkey
+
+# Ignore all
+tests/*
+# Unignore all with extensions
+!tests/*.*
